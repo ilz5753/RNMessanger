@@ -56,7 +56,7 @@ React Native messanger template
 </tr>
 </table>
 
-## run
+## usage
 
 1. clone project
 
