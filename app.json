@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teler",
-    "slug": "teler",
+    "name": "RNMessanger",
+    "slug": "RNMessanger",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
