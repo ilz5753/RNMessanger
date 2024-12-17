@@ -13,7 +13,7 @@
     "@react-native-masked-view/masked-view": "^0.2.6",
     "@react-navigation/bottom-tabs": "^6.3.2",
     "@react-navigation/material-top-tabs": "^6.2.2",
-    "@react-navigation/native": "^6.0.11",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/stack": "^6.2.2",
     "expo": "~45.0.0",
     "expo-av": "^11.2.3",
